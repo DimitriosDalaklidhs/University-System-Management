@@ -83,9 +83,9 @@ Requires Java 17+.
 
 The project was developed using Java SE 17 within the Eclipse IDE and managed through Git and GitHub, following an object-oriented programming paradigm and implemented as a console-based application. Its structure allows for significant future expansion, including potential migration to a full Spring Boot backend, integration with relational databases such as MySQL or PostgreSQL, the addition of a JavaFX graphical interface, and support for data persistence through CSV or JSON formats. The architecture is also suitable for exposing REST endpoints for departments, students, and professors, as well as incorporating comprehensive unit testing with JUnit.
 
-Created as part of academic coursework and portfolio development, the system showcases the author's ability to model real-world entities in Java, apply clean and scalable architecture principles, and design multi-class software using core OOP concepts. It reflects disciplined use of professional development tools, including version control with Git and project organization techniques aligned with industry standards. The project is intended for evaluation by employers, instructors, and fellow developers as evidence of competency in Java and foundational backend development practices.
+Created as part of academic coursework and portfolio development, the system models real-world entities in Java, applies clean and scalable architecture principles, and designs multi-class software using core OOP concepts. It reflects disciplined use of professional development tools, including version control with Git and project organization techniques aligned with industry standards. The project is intended for evaluation by employers, instructors, and fellow developers as evidence of competency in Java and foundational backend development practices.
 
-The software is distributed under the MIT License
+**The software is distributed under the MIT License**
 
 Author
 
