@@ -79,7 +79,7 @@ javac src/universitysystem/*.java
 2. Run
 java -cp src universitysystem.Main (Again, in bash)
 Requires Java 17+.
-
+```
 
 The project was developed using Java SE 17 within the Eclipse IDE and managed through Git and GitHub, following an object-oriented programming paradigm and implemented as a console-based application. Its structure allows for significant future expansion, including potential migration to a full Spring Boot backend, integration with relational databases such as MySQL or PostgreSQL, the addition of a JavaFX graphical interface, and support for data persistence through CSV or JSON formats. The architecture is also suitable for exposing REST endpoints for departments, students, and professors, as well as incorporating comprehensive unit testing with JUnit.
 
